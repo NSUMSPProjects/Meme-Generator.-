@@ -1,0 +1,17 @@
+D:\msp\project\meme generator trial\meme generator trial\bin\Debug\meme generator trial.exe.config
+D:\msp\project\meme generator trial\meme generator trial\bin\Debug\meme generator trial.exe
+D:\msp\project\meme generator trial\meme generator trial\bin\Debug\meme generator trial.pdb
+D:\msp\project\meme generator trial\meme generator trial\obj\Debug\meme generator trial.csprojResolveAssemblyReference.cache
+D:\msp\project\meme generator trial\meme generator trial\obj\Debug\meme_generator_trial.Form1.resources
+D:\msp\project\meme generator trial\meme generator trial\obj\Debug\meme_generator_trial.Properties.Resources.resources
+D:\msp\project\meme generator trial\meme generator trial\obj\Debug\meme generator trial.csproj.GenerateResource.Cache
+D:\msp\project\meme generator trial\meme generator trial\obj\Debug\meme generator trial.exe
+D:\msp\project\meme generator trial\meme generator trial\obj\Debug\meme generator trial.pdb
+D:\msp\project\meme generator trial\meme generator trial\obj\Debug\meme_generator_trial.Form2.resources
+D:\msp\project\meme generator trial\meme generator trial\obj\Debug\meme_generator_trial.AngryForm.resources
+D:\msp\project\meme generator trial\meme generator trial\obj\Debug\meme_generator_trial.ConfusedForm.resources
+D:\msp\project\meme generator trial\meme generator trial\obj\Debug\meme_generator_trial.HappyForm.resources
+D:\msp\project\meme generator trial\meme generator trial\obj\Debug\meme_generator_trial.SadForm.resources
+D:\msp\project\memeGenerator\memeGenerator\bin\Debug\meme generator trial.exe.config
+D:\msp\project\memeGenerator\memeGenerator\obj\Debug\meme generator trial.exe
+D:\msp\project\memeGenerator\memeGenerator\obj\Debug\meme generator trial.pdb
